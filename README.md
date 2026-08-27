@@ -220,3 +220,5 @@ npm run dev
 
 Developed for **St. Jude Medical Center — HealthForecast AI**.  
 Built with the MERN stack (MongoDB, Express.js, React 19, Node.js) and Tailwind CSS v4.
+
+made for the internship project 
